@@ -1,1 +1,1 @@
-# Payment Gateway Intergration
+# Payment Gateway Integration
